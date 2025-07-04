@@ -2,11 +2,16 @@
 title: Home
 ---
 
-# Welcome to My Quartz Site
+## My Grade 12 Notes
 
-Hi! I'm [Your Name] — welcome to my personal wiki/blog/vault.  
-Here you'll find my notes on [topics], my research, and other things I’m exploring.
+Welcome to my personal vault.  Here you'll find my lecture ntoes and other things I’m exploring.
 
-## 🌱 Start here
+## 🌱 Map of Contents
 
-hello
+### First Semester
+>[!philo]- Intro to Philosophy
+>[[1. Meaning, Mentors, and Methods]]
+> [[2. Why Philosophize]]
+
+
+
