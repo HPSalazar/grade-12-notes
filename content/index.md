@@ -10,10 +10,12 @@ Welcome to my personal vault.  Here you'll find my lecture ntoes and other thing
 
 ### First Semester
 >[!philo]- Intro to Philosophy
->[[1. Meaning, Mentors, and Methods]]
+>
+> [[1. Meaning, Mentors, and Methods]]
 > [[2. Why Philosophize]]
 
 >[!philo]- General Biology 2
->[[1. Genetic Engineering]]
+>
+> [[1. Genetic Engineering]]
 
 
