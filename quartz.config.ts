@@ -7,12 +7,6 @@ import * as Plugin from "./quartz/plugins"
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
-  siteMetadata: {
-    title: "Grade 12 Notes",
-    author: "HPSalazar",
-    description: "Your Quartz site for Grade 12",
-    siteUrl: "https://hpsalazar.github.io/grade-12-notes",
-  },
   configuration: {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
